@@ -1,0 +1,15 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "aximinds",
+  "owner": {
+    "name": "AxiMinds",
+    "url": "https://workers.aximinds.com"
+  },
+  "plugins": [
+    {
+      "name": "aximinds",
+      "source": "./",
+      "description": "Skills for the AxiMinds developer platform"
+    }
+  ]
+}
