@@ -1,5 +1,5 @@
 {
-  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "$schema": "https://code.aximinds.com/schemas/marketplace.json",
   "name": "aximinds",
   "owner": {
     "name": "AxiMinds",
