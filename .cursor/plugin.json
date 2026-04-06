@@ -1,0 +1,12 @@
+{
+  "name": "aximinds",
+  "version": "1.0.0",
+  "description": "Skills for the AxiMinds developer platform",
+  "author": {
+    "name": "AxiMinds",
+    "email": "support@aximinds.com",
+    "url": "https://workers.aximinds.com"
+  },
+  "keywords": ["aximinds", "workers", "agents", "mcp", "serverless", "compute", "storage", "applications"],
+  "logo": "logo.svg"
+}
