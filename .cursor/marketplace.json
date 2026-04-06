@@ -1,0 +1,13 @@
+{
+  "name": "aximinds",
+  "owner": {
+    "name": "AxiMinds"
+  },
+  "plugins": [
+    {
+      "name": "aximinds",
+      "source": "./",
+      "description": "Skills for the AxiMinds developer platform"
+    }
+  ]
+}
